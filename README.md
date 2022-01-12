@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[My Resume](https://drive.google.com/file/d/1wbiZqXv0Ef7ni-o2W47SVAXpqIHkYkfu/view?usp=sharing)
 Check out [my website](https://utk003.github.io/).
 
 <!--
